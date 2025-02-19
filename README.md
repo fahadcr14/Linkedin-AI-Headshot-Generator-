@@ -183,5 +183,4 @@ After setting up the environment and loading the necessary models, run the bot a
 
 ---
 
-```
 
