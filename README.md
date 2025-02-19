@@ -40,9 +40,7 @@ pip install insightface
 
 # Install CodeFormer
 pip install codeformer-pip
-```
 
----
 
 ### **3. Necessary Libraries**
 Make sure to install the necessary Python libraries to handle image processing and face swapping. 
