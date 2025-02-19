@@ -1,6 +1,5 @@
 Here's a comprehensive README file for **ProfileGenz** bot, including features, installation instructions, and steps on how to run it using Google Colab:
 
-```markdown
 # 🤖 **ProfileGenz Bot** 🤖
 
 ## 📌 **Overview**
